@@ -1,0 +1,7 @@
+nome = str(input('Qual é o seu nome?'))
+prim = nome.split()
+tod = ''.join(prim)
+print('Seu nome em letra maiscula: {}'.format(nome.upper()))
+print('Seu nome em letra minuscula: {}'.format(nome.lower()))
+print('Seu nome tem no total {} letras'.format(len(tod)))
+print('Seu primeiro nome tem {} letras'.format(len(prim[0])))

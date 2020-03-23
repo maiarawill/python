@@ -2,16 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fb295ae-0a36-4f84-b74f-e8fc6b66a692" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundoUm_Atividade31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundoUm_Atividade32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundoUm_Atividade33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundoUm_Atividade34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mundoUm_Atividade35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mundoDois_Atividade30.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mundoUm_Atividade30.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundoUm_Atividade30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mundoUm_Atividade26.py" beforeDir="false" afterPath="$PROJECT_DIR$/mundoUm_Atividade26.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +64,7 @@
       <recent name="C:\Users\Mai\PycharmProjects\exPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mundoDois_Atividade02">
+  <component name="RunManager" selected="Python.mundoDois_Atividade30">
     <configuration name="Unnamed" type="CompoundRunConfigurationType">
       <method v="2" />
     </configuration>
@@ -69,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mundoDois_Atividade26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +101,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundoDois_Atividade26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mundoDois_Atividade01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mundoDois_Atividade27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundoDois_Atividade01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundoDois_Atividade27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mundoDois_Atividade02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mundoDois_Atividade28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundoDois_Atividade02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundoDois_Atividade28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mundoUm_Atividade34" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mundoDois_Atividade29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundoUm_Atividade34.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundoDois_Atividade29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mundoUm_Atividade35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mundoDois_Atividade30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundoUm_Atividade35.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundoDois_Atividade30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,19 +197,19 @@
     <list>
       <item itemvalue="Compound.Unnamed" />
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.mundoUm_Atividade34" />
-      <item itemvalue="Python.mundoUm_Atividade35" />
-      <item itemvalue="Python.aula" />
-      <item itemvalue="Python.mundoDois_Atividade01" />
-      <item itemvalue="Python.mundoDois_Atividade02" />
+      <item itemvalue="Python.mundoDois_Atividade26" />
+      <item itemvalue="Python.mundoDois_Atividade27" />
+      <item itemvalue="Python.mundoDois_Atividade28" />
+      <item itemvalue="Python.mundoDois_Atividade29" />
+      <item itemvalue="Python.mundoDois_Atividade30" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.mundoDois_Atividade02" />
-        <item itemvalue="Python.mundoDois_Atividade01" />
-        <item itemvalue="Python.aula" />
-        <item itemvalue="Python.mundoUm_Atividade35" />
-        <item itemvalue="Python.mundoUm_Atividade34" />
+        <item itemvalue="Python.mundoDois_Atividade30" />
+        <item itemvalue="Python.mundoDois_Atividade29" />
+        <item itemvalue="Python.mundoDois_Atividade28" />
+        <item itemvalue="Python.mundoDois_Atividade27" />
+        <item itemvalue="Python.mundoDois_Atividade26" />
       </list>
     </recent_temporary>
   </component>
@@ -211,29 +231,33 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584492786327" />
-    <state width="675" height="186" key="GridCell.Tab.0.bottom" timestamp="1584767903441">
+    <state width="645" height="186" key="GridCell.Tab.0.bottom" timestamp="1584925725436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="675" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584767903441" />
-    <state width="675" height="186" key="GridCell.Tab.0.center" timestamp="1584767903441">
+    <state width="645" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584925725436" />
+    <state width="645" height="186" key="GridCell.Tab.0.center" timestamp="1584925725436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="675" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584767903441" />
-    <state width="675" height="186" key="GridCell.Tab.0.left" timestamp="1584767903441">
+    <state width="645" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584925725436" />
+    <state width="645" height="186" key="GridCell.Tab.0.left" timestamp="1584925725436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="675" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584767903441" />
-    <state width="675" height="186" key="GridCell.Tab.0.right" timestamp="1584767903441">
+    <state width="645" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584925725436" />
+    <state width="645" height="186" key="GridCell.Tab.0.right" timestamp="1584925725436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="675" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584767903441" />
+    <state width="645" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584925725436" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1584492763630">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584492763630" />
-    <state x="384" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1584705795910">
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1584890500164">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584705795910" />
+    <state x="384" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584890500164" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584918708173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584918708173" />
   </component>
 </project>
